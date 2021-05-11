@@ -1,0 +1,14 @@
+[StudentDAO]
+접속 - 무조건 해야함. '생성자'에서 초기화.
+등록
+수정
+삭제
+목록
+상세
+*싱글톤
+
+[StudentVO]
+student 테이블의 컬럼들
+
+[StudentMain]
+실행
